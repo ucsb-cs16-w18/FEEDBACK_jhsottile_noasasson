@@ -18,13 +18,13 @@
 
 | Item | +o?-  |   Summary | Comments  
 |------|-------|-------------|-----------
-| GIT  |   -   | Repo available on github|
+| GIT  |   +   | Repo available on github|
 | PAT  |   +   | Partner was added as collaborator|
-| ALL  |       | All functions implemented: block.cpp, pi.cpp, min4.cpp|
-| COM  |       | Code compiles without warnings | 
-| FUN  |       | Made appropriate use of function calls in min4.cpp   |
-| STY  |       | coding style good  |
-| INS  |       | followed instructions   |
+| ALL  |   +   | All functions implemented: block.cpp, pi.cpp, min4.cpp|
+| COM  |   +   | Code compiles without warnings | 
+| FUN  |   +   | Made appropriate use of function calls in min4.cpp   |
+| STY  |   +   | coding style good  |
+| INS  |   +   | followed instructions   |
 
 # lab02 feedback: code review of repo on github
 ## lab02 feedback: initial code review of repo on github
